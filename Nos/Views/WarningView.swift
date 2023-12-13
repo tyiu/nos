@@ -51,20 +51,20 @@ struct OutOfNetworkView: View {
                 Spacer() // pushes content to the center
                 
                 if self.isOverlayHelpTextBoxShown {
-                    Localized.outsideNetworkExplanation.view
+                    Text(.localizable.outsideNetworkExplanation)
                         .font(.body)
                         .foregroundColor(.primaryTxt)
                         .padding(.horizontal, 24)
                         .fixedSize(horizontal: false, vertical: true)
                 } else {
-                    Localized.outsideNetwork.view
+                    Text(.localizable.outsideNetwork)
                         .font(.body)
                         .foregroundColor(.primaryTxt)
                         .padding(.horizontal, 24)
                         .fixedSize(horizontal: false, vertical: true)
                 }
                 
-                SecondaryActionButton(title: Localized.viewThisPostAnyway) {
+                SecondaryActionButton(title: .localizable.viewThisPostAnyway) {
                     withAnimation {
                         controller.userHidWarning = true
                     }
@@ -110,7 +110,7 @@ struct OverlayContentReportView: View {
                 
                 // TextBox or Image based on isTextBoxShown
                 if self.isOverlayHelpTextBoxShown {
-                    Localized.contentWarningExplanation.view
+                    Text(.localizable.contentWarningExplanation)
                         .font(.body)
                         .foregroundColor(.secondaryTxt)
                         .padding(.horizontal, 24)
@@ -128,7 +128,7 @@ struct OverlayContentReportView: View {
                         ContentWarningMessage(reports: controller.noteReports, type: "note")
                     }
                 }
-                SecondaryActionButton(title: Localized.viewThisPostAnyway) {
+                SecondaryActionButton(title: .localizable.viewThisPostAnyway) {
                     withAnimation {
                         controller.userHidWarning = true
                     }
@@ -213,32 +213,27 @@ struct ContentWarningMessage: View {
     
     var body: some View {
         if type == "author" {
-            Text( Localized.userHasBeen )
+            Text(.localizable.userHasBeen)
                 .font(.body)
                 .foregroundColor(.primaryTxt)
         } else if type == "note" {
-            Text( Localized.noteHasBeen )
+            Text(.localizable.noteHasBeen)
                 .font(.body)
                 .foregroundColor(.primaryTxt)
         }
         if authorNames.count > 1 {
-            Text(Localized.reportedByOneAndMore.localizedMarkdown([
-                "one": firstAuthorSafeName,
-                "count": "\(authorNames.count - 1)"
-            ]))
+            Text(String(localized: .localizable.reportedByOneAndMore(firstAuthorSafeName, authorNames.count - 1)))
             .font(.body)  // Adjust font and style as needed
             .foregroundColor(.primary)
             .padding(.leading, 25)  // Adjust padding as needed
         } else {
-            Text(Localized.reportedByOne.localizedMarkdown([
-                "one": firstAuthorSafeName
-            ]))
+            Text(String(localized: .localizable.reportedByOne(firstAuthorSafeName)))
             .font(.body)  // Adjust font and style as needed
             .foregroundColor(.secondaryTxt)
             .padding(.leading, 25)  // Adjust padding as needed
         }
         
-        Text( Localized.reportedFor.localizedMarkdown(["reason": reason]) )
+        Text(String(localized: .localizable.reportedFor(reason)))
             .font(.body)
             .foregroundColor(.primaryTxt)
     }

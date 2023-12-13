@@ -99,7 +99,7 @@ struct DiscoverView: View {
                     if showRelayPicker, let author = currentUser.author {
                         RelayPicker(
                             selectedRelay: $relayFilter,
-                            defaultSelection: Localized.allMyRelays.string,
+                            defaultSelection: String(localized: .localizable.allMyRelays),
                             author: author,
                             isPresented: $showRelayPicker
                         )
@@ -109,7 +109,7 @@ struct DiscoverView: View {
             .searchable(
                 text: $searchController.query, 
                 placement: .toolbar, 
-                prompt: PlainText(Localized.searchBar.string)
+                prompt: PlainText(.localizable.searchBar)
             )
             .autocorrectionDisabled()
             .onSubmit(of: .search) {
@@ -120,7 +120,7 @@ struct DiscoverView: View {
                 RelayPickerToolbarButton(
                     selectedRelay: $relayFilter,
                     isPresenting: $showRelayPicker,
-                    defaultSelection: Localized.allMyRelays
+                    defaultSelection: .localizable.allMyRelays
                 ) {
                     withAnimation {
                         showRelayPicker.toggle()
@@ -187,7 +187,7 @@ struct DiscoverView: View {
             .navigationDestination(for: Author.self) { author in
                 ProfileView(author: author)
             }
-            .navigationBarTitle(Localized.discover.string, displayMode: .inline)
+            .navigationBarTitle(String(localized: .localizable.discover), displayMode: .inline)
             .toolbarBackground(.visible, for: .navigationBar)
             .toolbarBackground(Color.cardBgBottom, for: .navigationBar)
             .navigationBarItems(leading: SideMenuButton())
