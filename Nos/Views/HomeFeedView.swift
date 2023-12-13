@@ -97,7 +97,7 @@ struct HomeFeedView: View {
                                                 Button {
                                                     router.push(author)
                                                 } label: {
-                                                    Localized.seeProfile.view
+                                                    Text(.localizable.seeProfile)
                                                 }
                                             }
                                     }
@@ -142,7 +142,7 @@ struct HomeFeedView: View {
         .background(Color.appBg)
         .overlay(Group {
             if events.isEmpty && !performingInitialLoad {
-                Localized.noEvents.view
+                Text(.localizable.noEvents)
                     .padding()
             }
         })
@@ -184,11 +184,11 @@ struct HomeFeedView: View {
         .padding(.top, 1)
         .overlay(Group {
             if !events.contains(where: { !$0.author!.muted }) {
-                Localized.noEvents.view
+                Text(.localizable.noEvents)
                     .padding()
             }
         })
-        .nosNavigationBar(title: isShowingStories ? Localized.stories : Localized.homeFeed)
+        .nosNavigationBar(title: isShowingStories ? .localizable.stories : .localizable.homeFeed)
         .refreshable {
             date = .now
         }
