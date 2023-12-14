@@ -359,7 +359,7 @@
               "one": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%lld réponse"
+                  "value": "%lld réponses"
                 }
               },
               "other": {
