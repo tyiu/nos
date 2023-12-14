@@ -51,6 +51,12 @@
             "value": "Camera is not available on this device"
           }
         },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kàmera is not available on this device"
+          }
+        },
         "sv": {
           "stringUnit": {
             "state": "translated",
