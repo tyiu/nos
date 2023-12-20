@@ -1,1014 +1,1014 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "bisexualPorn": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bisexuelle Pornografie"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "bisexualPorn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bisexuelle Pornografie"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bisexual porn"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bisexual porn"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bisexuella porr"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bisexuella porr"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "双性色情"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "双性色情"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "雙性色情"
-          }
-        }
-      }
-    },
-    "bodilyHarm": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Körperlicher Schaden"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bodily Harm"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kroppslig skada"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "身体伤害"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "身體傷害"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雙性色情"
           }
         }
       }
     },
-    "casualNudity": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Leichte Nacktheit"
+    "bodilyHarm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Körperlicher Schaden"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Casual nudity"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bodily Harm"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Casual nakenhet"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kroppslig skada"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "裸体"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身体伤害"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "裸體"
-          }
-        }
-      }
-    },
-    "childSexualAbuse": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sexueller Missbrauch von Kindern"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Child Sexual Abuse"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sexuella övergrepp mot barn"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "儿童性虐待"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "兒童性虐待"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "身體傷害"
           }
         }
       }
     },
-    "coarseLanguage": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grobe Sprache"
+    "casualNudity" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leichte Nacktheit"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coarse Language"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Casual nudity"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Grovt språk"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Casual nakenhet"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "粗鲁语言"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裸体"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "粗魯語言"
-          }
-        }
-      }
-    },
-    "copyrightViolation": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Urheberrechtsverletzung"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Copyright Violation"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Upphovsrättsbrott"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "版权侵犯"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "版權侵犯"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裸體"
           }
         }
       }
     },
-    "drugRelatedCrime": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Drogenbezogene Kriminalität"
+    "childSexualAbuse" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sexueller Missbrauch von Kindern"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Drug-related crime"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Child Sexual Abuse"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Narkotikarelaterade brott"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sexuella övergrepp mot barn"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "毒品犯罪"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儿童性虐待"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "毒品犯罪"
-          }
-        }
-      }
-    },
-    "erotica": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erotik"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erotica"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erotik"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "黄色"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "黃色"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兒童性虐待"
           }
         }
       }
     },
-    "financialHarm": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finanzieller Schaden"
+    "coarseLanguage" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grobe Sprache"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Financial Harm"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coarse Language"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Finansiell skada"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grovt språk"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "财政伤害"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粗鲁语言"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "財政傷害"
-          }
-        }
-      }
-    },
-    "fraudAndScams": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Betrug und Täuschung"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fraud & Scams"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bedrägeri & Scams"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "诈骗和欺诈行为"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "詐騙和欺詐行為"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粗魯語言"
           }
         }
       }
     },
-    "gayMalePorn": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Homosexuelle männliche Pornografie"
+    "copyrightViolation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Urheberrechtsverletzung"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gay male porn"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright Violation"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gay manligt pron"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Upphovsrättsbrott"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "男性同性色情"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版权侵犯"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "男性同性色情"
-          }
-        }
-      }
-    },
-    "genderFluidNonBinaryPorn": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gender-Fluide \/ nicht-binäre Pornografie"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gender-fluid \/ non-binary porn"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Könsflytande \/ icke-binära porr"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "性别流体\/非二元性色情"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "性別流體\/非二元性色情"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版權侵犯"
           }
         }
       }
     },
-    "harassmentStalkingOrDoxxing": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Belästigung, Stalking oder Doxxing"
+    "drugRelatedCrime" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drogenbezogene Kriminalität"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Harassment, Stalking, or Doxxing"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drug-related crime"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trakasseri, Stalking eller Doxxing"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Narkotikarelaterade brott"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "骚扰、跟踪或揭露他人隐私"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毒品犯罪"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "騷擾、跟蹤或揭露他人隱私"
-          }
-        }
-      }
-    },
-    "heterosexualPorn": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heterosexuelle Pornografie"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heterosexual Porn"
-          }
-        },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Heterosexuell Porr"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "异性色情"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "異性色情"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "毒品犯罪"
           }
         }
       }
     },
-    "illegal": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Illegal"
+    "erotica" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erotik"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Olaglig"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erotica"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "违法"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erotik"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "違法"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黄色"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "黃色"
           }
         }
       }
     },
-    "impersonation": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Identitätsdiebstahl"
+    "financialHarm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finanzieller Schaden"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Impersonation"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Financial Harm"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Imitering"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Finansiell skada"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "冒充他人"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "财政伤害"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "冒充他人"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "財政傷害"
           }
         }
       }
     },
-    "intoleranceAndHate": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Intoleranz & Hass"
+    "fraudAndScams" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Betrug und Täuschung"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Intolerance & Hate"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fraud & Scams"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Intolerans & hat"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bedrägeri & Scams"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "不容忍和仇恨行为"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "诈骗和欺诈行为"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "不容忍和仇恨行為"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詐騙和欺詐行為"
           }
         }
       }
     },
-    "lesbianPorn": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lesbische Pornografie"
+    "gayMalePorn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homosexuelle männliche Pornografie"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lesbian porn"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gay male porn"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "女性同性色情"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gay manligt pron"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "女性同性色情"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "男性同性色情"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "男性同性色情"
           }
         }
       }
     },
-    "likelyToCauseHarm": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Verursacht wahrscheinlich Schaden"
+    "genderFluidNonBinaryPorn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gender-Fluide / nicht-binäre Pornografie"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Likely to cause harm"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gender-fluid / non-binary porn"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sannolikt att orsaka skada"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Könsflytande / icke-binära porr"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "可能造成伤害"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性别流体/非二元性色情"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "可能造成傷害"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性別流體/非二元性色情"
           }
         }
       }
     },
-    "malware": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Schadsoftware \/ Malware"
+    "harassmentStalkingOrDoxxing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Belästigung, Stalking oder Doxxing"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Malware"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Harassment, Stalking, or Doxxing"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Skadlig kod\/programvara (malware)"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trakasseri, Stalking eller Doxxing"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "恶意软件"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "骚扰、跟踪或揭露他人隐私"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "惡意軟體"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "騷擾、跟蹤或揭露他人隱私"
           }
         }
       }
     },
-    "nudityAndSex": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nacktheit & Sex"
+    "heterosexualPorn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heterosexuelle Pornografie"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nudity & Sex"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heterosexual Porn"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nakenhet och sex"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heterosexuell Porr"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "裸体和性行为"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "异性色情"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "裸體和性行為"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "異性色情"
           }
         }
       }
     },
-    "other": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Andere"
+    "illegal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Illegal"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Other"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Olaglig"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Övrigt"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "违法"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "其他"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "其他"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "違法"
           }
         }
       }
     },
-    "pornography": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pornografie"
+    "impersonation" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Identitätsdiebstahl"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pornography"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impersonation"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pornografi"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imitering"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "色情"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "冒充他人"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "色情"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "冒充他人"
           }
         }
       }
     },
-    "prostitution": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Prostitution"
+    "intoleranceAndHate" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intoleranz & Hass"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "卖淫"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intolerance & Hate"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "賣淫"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Intolerans & hat"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不容忍和仇恨行为"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不容忍和仇恨行為"
           }
         }
       }
     },
-    "sex": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sex"
+    "lesbianPorn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lesbische Pornografie"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "性行为"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lesbian porn"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "性行為"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "女性同性色情"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "女性同性色情"
           }
         }
       }
     },
-    "spam": {
-      "extractionState": "manual",
-      "localizations": {
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Spam"
+    "likelyToCauseHarm" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verursacht wahrscheinlich Schaden"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Skräp"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Likely to cause harm"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "垃圾"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sannolikt att orsaka skada"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "垃圾"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可能造成伤害"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可能造成傷害"
           }
         }
       }
     },
-    "transsexualPorn": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Transsexuelle Pornografie"
+    "malware" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Schadsoftware / Malware"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Transsexual porn"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Malware"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Transsexuell porr"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skadlig kod/programvara (malware)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "变性色情"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恶意软件"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "變性色情"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "惡意軟體"
           }
         }
       }
     },
-    "violence": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gewalt"
+    "nudityAndSex" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nacktheit & Sex"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Violence"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nudity & Sex"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Våld"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nakenhet och sex"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "暴力"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裸体和性行为"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "暴力"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "裸體和性行為"
           }
         }
       }
     },
-    "violenceTowardsAHumanBeing": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gewalt gegenüber einem Menschen"
+    "other" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Andere"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Violence towards a human being"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Other"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Våld mot en människa"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Övrigt"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "对人类的暴力行为"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "對人類的暴力行為"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "其他"
           }
         }
       }
     },
-    "violenceTowardsASentientAnimal": {
-      "extractionState": "manual",
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gewalt gegenüber einem fühlendem Tier"
+    "pornography" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pornografie"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Violence towards a sentient animal"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pornography"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Våld mot ett levande djur"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pornografi"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "对情感动物的暴力行为"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "色情"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "對情感動物的暴力行為"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "色情"
+          }
+        }
+      }
+    },
+    "prostitution" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prostitution"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卖淫"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "賣淫"
+          }
+        }
+      }
+    },
+    "sex" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sex"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性行为"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "性行為"
+          }
+        }
+      }
+    },
+    "spam" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spam"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skräp"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "垃圾"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "垃圾"
+          }
+        }
+      }
+    },
+    "transsexualPorn" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transsexuelle Pornografie"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transsexual porn"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transsexuell porr"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "变性色情"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "變性色情"
+          }
+        }
+      }
+    },
+    "violence" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewalt"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Violence"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Våld"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暴力"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暴力"
+          }
+        }
+      }
+    },
+    "violenceTowardsAHumanBeing" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewalt gegenüber einem Menschen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Violence towards a human being"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Våld mot en människa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对人类的暴力行为"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "對人類的暴力行為"
+          }
+        }
+      }
+    },
+    "violenceTowardsASentientAnimal" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gewalt gegenüber einem fühlendem Tier"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Violence towards a sentient animal"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Våld mot ett levande djur"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "对情感动物的暴力行为"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "對情感動物的暴力行為"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }
